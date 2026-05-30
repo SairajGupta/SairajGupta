@@ -19,15 +19,14 @@
 
 
 <!-- TERMINAL BOX -->
-```
+<pre>
 ┌─────────────────────────────────────────────────────────────┐
 │  $ whoami                                                   │
 │  > building stuff that matters                              │
 │  > breaking things to understand them                       │
 │  > shipping code that hits different               [● live] │
 └─────────────────────────────────────────────────────────────┘
-```
-
+</pre>
 <br/>
 
 
@@ -119,16 +118,11 @@ sairaj = {
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SairajGupta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF94&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairajGupta&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SairajGupta&theme=algolia&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SairajGupta&theme=algolia&hide_border=true&background=0D1117&ring=00D9FF&fire=F7931E&currStreakLabel=00FF94" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SairajGupta&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00FF94&point=F7931E" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SairajGupta&theme=react-dark&hide_border=true" />
 
 </div>
-
----
 
 <div align="center">
 
