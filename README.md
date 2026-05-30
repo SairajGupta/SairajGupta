@@ -6,9 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF94&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer+%F0%9F%8C%90;Data+Scientist+%F0%9F%93%8A;Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;GIS+%26+Mapping+Nerd+%F0%9F%97%BA%EF%B8%8F;Always+Learning+%7C+Always+Shipping+%F0%9F%9A%80" alt="roles" />
 
-<br/>
-
-*`// building stuff that matters · breaking things to understand them`*
 
 <br/>
 
@@ -160,7 +157,7 @@ sairaj = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SairajGupta)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srgupta1235@email.com)
 
-<br/>
+
 
 *`// crafted with curiosity & too much coffee ☕`*
 
