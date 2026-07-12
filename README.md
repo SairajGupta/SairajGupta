@@ -40,15 +40,42 @@
 </div>
 
 ```python
-sairaj = {
-    "currently_up_to":  "Building full-stack apps, wrangling data & automating with cloud 🛠️",
-    "also_into":        "GIS, spatial data & interactive maps 🗺️",
-    "learning":         ["ML pipelines", "AWS architecture", "CI/CD", "PostGIS"],
-    "repos_status":     "More coming soon — watch this space 🚀",
-    "nerdy_about":      ["Geopolitics 🌍", "Global economics 📈", "Personal finance 💸"],
-    "off_duty":         ["Gaming 🎮", "Music 🎵", "Travel ✈️", "Reading market takes 📰"],
-    "fun_fact":         "I debug Kubernetes configs at 1am and somehow enjoy it 🐳"
-}
+class SairajGupta:
+
+    def __init__(self):
+
+        self.role = "Computer Science Student & Full-Stack Developer"
+
+        self.currently_building = [
+            "⚡ Modern Full-Stack Applications",
+            "🗺️ GIS & Interactive Mapping Platforms",
+            "☁️ Cloud Native Projects",
+            "📊 Data Analytics Dashboards"
+        ]
+
+        self.currently_learning = [
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "Machine Learning",
+            "PostGIS"
+        ]
+
+        self.interests = [
+            "Geopolitics 🌍",
+            "Economics 📈",
+            "Finance 💹",
+            "Spatial Computing 🗺️",
+            "Open Source ❤️"
+        ]
+
+        self.goal = "Build products that solve real-world problems."
+
+        self.fun_fact = (
+            "Most of my side projects begin as experiments "
+            "and somehow turn into full applications 🚀"
+        )
 ```
 
 ---
@@ -113,11 +140,13 @@ sairaj = {
 
 <div align="center">
 
-## 📊 GitHub Stats
+# 📊 GitHub Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SairajGupta&theme=algolia&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SairajGupta&theme=algolia&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SairajGupta&theme=react-dark&hide_border=true" />
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SairajGupta&theme=react-dark&hide_border=true"/>
 
 </div>
 
